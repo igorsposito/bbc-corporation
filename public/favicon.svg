@@ -1,0 +1,25 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="15" fill="#091621"/>
+
+  <text
+    x="32"
+    y="39"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+    font-weight="800"
+    letter-spacing="-2"
+    fill="#FFFFFF"
+  >
+    BBC
+  </text>
+
+  <path
+    d="M17 46 H47"
+    stroke="#B8C9D0"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    opacity="0.65"
+  />
+</svg>
